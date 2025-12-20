@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![snake gif](https://github.com/milotverbani/milotverbani/blob/output/github-snake-dark.svg)
 <!--
 **milotverbani/milotverbani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
