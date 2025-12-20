@@ -33,6 +33,6 @@ I am a passionate Software Developer with a Bachelor of Science degree. I have b
 
 ### 🐍 My Contribution Snake
 
-<img src="https://github.com/milotverbani/milotverbani/blob/output/github-snake-dark.svg" alt="snake gif" width="100%" />
+<img src="https://github.com/milotverbani/milotverbani/blob/output/github-snake.svg" alt="snake gif" width="100%" />
 
 </div>
